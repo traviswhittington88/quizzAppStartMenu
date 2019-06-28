@@ -93,7 +93,7 @@ main{
 
 }
 
-.beginQuiz .startButton{
+.beginQuiz #startButton{
   position: relative;
   top: 62px;
   width: 150px;
